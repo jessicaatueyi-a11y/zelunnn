@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #555;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Hello, I'm Jessica</h1>
+
+        <h2>About Me</h2>
+        <p>
+            I am a university student with a keen interest in medicine,
+            anatomy, leadership, and community service. I enjoy learning,
+            conducting research, and participating in academic and social activities.
+        </p>
+
+        <h2>My Interests</h2>
+        <ul>
+            <li>Medicine and Health Sciences</li>
+            <li>Anatomy and Physiology</li>
+            <li>Research and Innovation</li>
+            <li>Leadership and Volunteer Service</li>
+            <li>Reading and Personal Development</li>
+        </ul>
+
+        <h2>My Goals</h2>
+        <p>
+            My goal is to excel academically, contribute positively to society,
+            and develop into a competent healthcare professional and leader.
+        </p>
+
+        <h2>Contact</h2>
+        <p>Email: youremail@example.com</p>
+    </div>
+
+</body>
+</html>
